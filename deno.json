@@ -1,0 +1,7 @@
+{
+  "unstable": ["kv", "temporal"],
+  "imports": {
+    "@fedify/fedify": "jsr:@fedify/fedify@^0.11.0",
+    "@logtape/logtape": "jsr:@logtape/logtape@^0.4.1"
+  }
+}
